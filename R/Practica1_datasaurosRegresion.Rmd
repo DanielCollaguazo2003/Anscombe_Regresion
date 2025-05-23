@@ -111,5 +111,12 @@ datasaurus_dozen %>%
     x = "X",
     y = "Y"
   )
-
+  
 ```
+
+## Predicción de regresión
+
+Previamente, en clase se explicó cómo sería la regresión de *slant up*, la cual fue la siguiente:
+
+![Prediccón de regresión](regresion_wsp.jpg)
+
